@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image1](image1)" alt="Profile Banner" width="350"/>
+  <img src="images.jpeg" alt="Profile Banner" width="350"/>
 </p>
 
 <h1 align="center">Hi, I'm Priyanshu Verma! 👋</h1>
