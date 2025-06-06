@@ -1,4 +1,6 @@
-<!-- Hi there, I'm Priyanshu Verma! 👋 -->
+<p align="center">
+  <img src="![image1](image1)" alt="Profile Banner" width="350"/>
+</p>
 
 <h1 align="center">Hi, I'm Priyanshu Verma! 👋</h1>
 <p align="center">
