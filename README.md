@@ -17,7 +17,7 @@
 
 ### 🎓 Education
 
-- **B.Tech + M.Tech in Computer Science and Engineering** (2022–present), Central University of Jharkhand (CGPA: 7.54)
+- **B.Tech + M.Tech in Computer Science and Engineering** (2022–present), Central University of Jharkhand (CGPA: 7.80)
 - **Intermediate (PCM + CS)**, Youhe Public School, Kanpur (75.65%)
 - **Matriculation**, Youhe Public School, Kanpur (85.33%)
 
