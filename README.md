@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Priyanshu Verma! 👋</h1>
 <p align="center">
-  <b>Passionate CSE Student | Aspiring Researcher | Code Crafter</b>
+  <b>Fourth Year Int. Mtech CSE Student | Aspiring Researcher | Vice-President Code Crafter Programming Club | T$P Student Coordinator</b>
 </p>
 
 ---
