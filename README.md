@@ -12,7 +12,7 @@
 ### 📱 Contact
 
 - **Email**: Priyanshu.22190503040@cuj.ac.in
-- **Phone**: 737602121
+- **Phone**: +91 737602121
 - **GitHub**: [PriyanshuV17](https://github.com/PriyanshuV17)
 
 ---
