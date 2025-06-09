@@ -31,10 +31,6 @@
   Working on a DRDO-sponsored Surveillance System project under Dr. Devi Prasad Dogra.
 - **Cybersecurity Intern @ C-DAC Noida**  
   R&D in IT, Electronics, and Cybersecurity. (Oct–Nov 2024)
-- **Research Intern @ HNNOIX India Pvt. Ltd.**  
-  Exploring 6G technologies, advanced networks, and signal processing under Dr. Pooja Agarwal.
-
----
 
 ### 🚀 Projects (see [my GitHub](https://github.com/PriyanshuV17) for more)
 
