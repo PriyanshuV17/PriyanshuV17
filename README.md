@@ -14,6 +14,8 @@
 - **Email**: Priyanshu.22190503040@cuj.ac.in
 - **Phone**: +91 737602121
 - **GitHub**: [PriyanshuV17](https://github.com/PriyanshuV17)
+- **LinkedIn**: [pri​yanshuverma17](https://www.linkedin.com/in/priyanshuverma17)
+- **Instagram**: [priyanshu.verma17](https://www.instagram.com/priyanshu.verma17)
 
 ---
 
@@ -42,6 +44,7 @@
 - **Air Ticket Reservation System**: Python + MySQL reservation platform.
 - **Voice Assistant (V-Chat 1.0)**: Python-based voice assistant with APIs & automation.
 - **Solar System Simulation**: 3D simulation in Python/vPython.
+- **Hate Speech Detection**: NLP project for detecting and classifying hate/abusive language in short text (tweets/comments). (Repo: https://github.com/PriyanshuV17/hate-speech-detection)
 
 ---
 
@@ -105,3 +108,5 @@
 ✨ <b>Let's connect, collaborate, and build amazing things together!</b> ✨
 
 </div>
+
+Last updated: 2025-10-24
