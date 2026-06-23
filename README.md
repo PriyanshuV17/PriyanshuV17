@@ -70,7 +70,7 @@
 | **Banking Management System** | Complete banking operations platform | Python, MySQL | — |
 | **Air Ticket Reservation System** | Reservation and booking platform | Python, MySQL | — |
 
-👉 **[View all projects →](https://github.com/PriyanshuV17)**
+👉 **[View all projects →]([https://github.com/PriyanshuV17](https://github.com/PriyanshuV17?tab=repositories))**
 
 ---
 
