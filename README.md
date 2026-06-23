@@ -74,40 +74,89 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack, Tools & Skills
 
-### 🔤 Languages & Core
+### 🔤 Programming Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+### 🌐 Web Development
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-### 🤖 AI/ML & Data Science
+### 🤖 Machine Learning & Deep Learning
 <div>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </div>
 
-### 🗄️ Database & Tools
+### 👁️ Computer Vision & NLP
+<div>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFB13B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BERT-3399FF?style=for-the-badge&logo=bert&logoColor=white"/>
+</div>
+
+### 📊 Data Processing & Visualization
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-FF5500?style=for-the-badge&logo=gradio&logoColor=white"/>
+</div>
+
+### 🗄️ Databases & Backend
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
-### 💡 Core Competencies
-- **Machine Learning**: Deep Learning (CNN/RNN), Pattern Recognition, Model Optimization
-- **NLP**: Transformers (BERT, XLM-R), LLMs, LangChain, RAG
-- **Computer Vision**: Image Processing, Object Detection (YOLO), Vision Transformers
-- **Data Science**: Data Engineering, Feature Extraction, Dataset Curation
-- **Tools**: GitHub, Unity 3D, Unreal Engine, OpenGL, Android Development
-- **Soft Skills**: Leadership, Team Management, Communication, Problem-Solving
+### 🎮 Game Engines & Graphics
+<div>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### 📱 Mobile & Other
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</div>
+
+### 💡 Core Technical Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Machine Learning** | Deep Learning (CNN/RNN), Pattern Recognition, Model Optimization, Feature Engineering |
+| **Natural Language Processing** | Transformers (BERT, XLM-R), LLMs, LangChain, RAG, Text Classification, Sentiment Analysis |
+| **Computer Vision** | Image Processing, Object Detection (YOLO), Vision Transformers, Diffusion Models, GAN, Foundation Models |
+| **Data Science** | Data Engineering, Dataset Curation, Preprocessing, EDA, Feature Extraction, Statistical Analysis |
+| **Cybersecurity** | Penetration Testing (SQLi, XSS), Network Analysis, IDS, Threat Mitigation |
+| **DSA & Fundamentals** | Data Structures & Algorithms, DBMS, System Design, Problem Solving |
+| **Soft Skills** | Leadership, Team Management, Communication, Project Coordination, Mentoring |
 
 ---
 
@@ -149,7 +198,7 @@
 - ✅ **Advanced Drone Technology (Air Taxi)** – Specialized Training
 - ✅ **NCC B and C Certificate** – National Cadet Corps
 - ✅ **Role of Academia & IT in Upskilling** – Professional Development
-- ✅ **Disaster Risk Management** – Specialized Training
+- ✅ **NPTEL Elite Certifications** – Python, Java, C
 
 ### 🥇 Achievements & Awards
 - 🎖️ **Consolation Prize** – Innovation Challenge 2023 (CUJ & IIT ISM Dhanbad)
