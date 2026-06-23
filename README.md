@@ -3,7 +3,7 @@
   
   # 👋 Hi, I'm Priyanshu Verma!
   
-  **Fourth Year Int. M.Tech CSE | Aspiring Researcher | Vice-President Code Crafters Club | T&P Student Coordinator**
+  **Final Year Int. M.Tech CSE (5th Year) | CGPA: 7.88 | Aspiring Researcher | Founder & Treasurer, Code Crafters Club | T&P Student Coordinator**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshuverma17)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshuV17)
@@ -24,11 +24,11 @@
 
 ## 🎓 Education
 
-| Degree | Institution | Timeline |
-|--------|-------------|----------|
-| **B.Tech + M.Tech in CSE** | Central University of Jharkhand | 2022–Present |
-| **Intermediate (PCM + CS)** | Youhe Public School, Kanpur | Completed |
-| **Matriculation** | Youhe Public School, Kanpur | Completed |
+| Degree | Institution | Timeline | CGPA |
+|--------|-------------|----------|------|
+| **B.Tech + M.Tech in CSE** (Final Year - 5th Year) | Central University of Jharkhand | 2022–2026 | **7.88** ⭐ |
+| **Intermediate (PCM + CS)** | Youhe Public School, Kanpur | Completed | — |
+| **Matriculation** | Youhe Public School, Kanpur | Completed | — |
 
 ---
 
@@ -112,15 +112,17 @@
 
 ---
 
-## 🏆 Extracurricular Activities
+## 🏆 Leadership & Extracurricular Activities
 
-| Role | Organization | Timeline |
-|------|--------------|----------|
-| **Vice-President** | Code Crafters Programming Club | 2023–Present |
-| **Team Leader** | Smart India Hackathon | 2023, 2024 |
-| **Team Leader** | Kavach Hackathon | 2023 |
-| **Student Coordinator** | Training & Placement Cell, CUJ | 2024–Present |
-| **NCC Cadet** | National Cadet Corps | 2022–2025 |
+| Role | Organization | Timeline | Details |
+|------|--------------|----------|---------|
+| **Founder & Treasurer** | Code Crafters Programming Club | 2026–Present | Leading the club as co-founder |
+| **Vice-President** | Code Crafters Programming Club | 2025 | Successfully completed term |
+| **Founding Member** | Code Crafters Programming Club | 2023–2025 | Co-founded the club |
+| **Team Leader** | Smart India Hackathon | 2023, 2024 | Led teams in innovation challenges |
+| **Team Leader** | Kavach Hackathon | 2023 | Cybersecurity-focused hackathon |
+| **Student Coordinator** | Training & Placement Cell, CUJ | 2024–Present | Coordinating internships & placements |
+| **NCC Cadet** | National Cadet Corps | 2022–2025 | Military training & discipline |
 
 ---
 
@@ -136,6 +138,7 @@
 - 🎖️ **Consolation Prize** – Innovation Challenge 2023 (CUJ & IIT ISM Dhanbad)
 - 🏆 Multiple hackathon participations and team leadership roles
 - 📚 Strong academic foundation with specialization in AI/ML & System Design
+- 🌟 Founding member and current treasurer of Code Crafters Programming Club
 
 ---
 
