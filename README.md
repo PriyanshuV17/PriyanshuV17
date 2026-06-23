@@ -1,112 +1,154 @@
-<p align="center">
-  <img src="images.jpeg" alt="Profile Banner" width="350"/>
-</p>
+<div align="center">
+  <img src="images.jpeg" alt="Profile Banner" width="350" style="border-radius: 10px;"/>
+  
+  # 👋 Hi, I'm Priyanshu Verma!
+  
+  **Fourth Year Int. M.Tech CSE | Aspiring Researcher | Vice-President Code Crafters Club | T&P Student Coordinator**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshuverma17)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshuV17)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Priyanshu.22190503040@cuj.ac.in)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshu.verma17)
 
-<h1 align="center">Hi, I'm Priyanshu Verma! 👋</h1>
-<p align="center">
-  <b>Fourth Year Int. Mtech CSE Student | Aspiring Researcher | Vice-President Code Crafter Programming Club | T$P Student Coordinator</b>
-</p>
-
----
-
-### 📱 Contact
-
-- **Email**: Priyanshu.22190503040@cuj.ac.in
-- **Phone**: +91 737602121
-- **GitHub**: [PriyanshuV17](https://github.com/PriyanshuV17)
-- **LinkedIn**: [pri​yanshuverma17](https://www.linkedin.com/in/priyanshuverma17)
-- **Instagram**: [priyanshu.verma17](https://www.instagram.com/priyanshu.verma17)
+</div>
 
 ---
 
-### 🎓 Education
+## 📱 Quick Contact
 
-- **B.Tech + M.Tech in Computer Science and Engineering** (2022–present), Central University of Jharkhand
-- **Intermediate (PCM + CS)**, Youhe Public School, Kanpur
-- **Matriculation**, Youhe Public School, Kanpur
-
----
-
-### 💼 Internships
-
-- **Research Intern @ IIT Bhubaneswar**  
-  Working on a DRDO-sponsored Surveillance System project under Dr. Devi Prasad Dogra.
-- **Cybersecurity Intern @ C-DAC Noida**  
-  R&D in IT, Electronics, and Cybersecurity. (Oct–Nov 2024)
-
-### 🚀 Projects (see [my GitHub](https://github.com/PriyanshuV17) for more)
-
-- **LegalBuddy Prototype**: A C++ OOP-based legal case management app.
-- **CcpC Website**: Modern, responsive club website (HTML/CSS/JS).
-- **Object Tracking Simulation**: Python + OpenCV, Multi/Singe/Large object tracking.
-- **Medium Article Reader**: Python text-to-speech + web scraping.
-- **Banking Management System**: Python + MySQL for banking operations.
-- **Air Ticket Reservation System**: Python + MySQL reservation platform.
-- **Voice Assistant (V-Chat 1.0)**: Python-based voice assistant with APIs & automation.
-- **Solar System Simulation**: 3D simulation in Python/vPython.
-- **Hate Speech Detection**: NLP project for detecting and classifying hate/abusive language in short text (tweets/comments). (Repo: https://github.com/PriyanshuV17/hate-speech-detection)
+| 📧 Email | 📱 Phone | 🔗 Links |
+|---------|----------|---------|
+| Priyanshu.22190503040@cuj.ac.in | +91 737602121 | [GitHub](https://github.com/PriyanshuV17) \| [LinkedIn](https://www.linkedin.com/in/priyanshuverma17) |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🎓 Education
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
-- Data Structures & Algorithms
-- DBMS & SQL
-- Unreal Engine, OpenGL (basics), Unity 3D (basics+)
-- Android Development (basic)
-- Computer Graphics (basics)
-- Leadership, Management, Communication
+| Degree | Institution | Timeline |
+|--------|-------------|----------|
+| **B.Tech + M.Tech in CSE** | Central University of Jharkhand | 2022–Present |
+| **Intermediate (PCM + CS)** | Youhe Public School, Kanpur | Completed |
+| **Matriculation** | Youhe Public School, Kanpur | Completed |
 
 ---
 
-### 🏆 Stats & Trophies
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PriyanshuV17&theme=darkhub" alt="trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuV17&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuV17&theme=tokyonight" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuV17&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
+### 🔬 Research Intern @ IIT Bhubaneswar
+- Working on DRDO-sponsored Surveillance System project
+- Under guidance of Dr. Devi Prasad Dogra
+
+### 🛡️ Cybersecurity Intern @ C-DAC Noida
+- R&D in IT, Electronics, and Cybersecurity
+- **Timeline**: Oct–Nov 2024
 
 ---
 
-### 🌟 Extracurriculars (Summary)
+## 🚀 Featured Projects
 
-- **NCC Cadet** (2022–25)
-- **Student Coordinator**, Training and Placement Cell, CUJ
-- **Team Leader** at Smart India Hackathon (2023, 2024) & Kavach Hackathon (2023)
-- **Founding Member & Vice-President**, Code Crafters Programming Club
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **LegalBuddy Prototype** | Legal case management application | C++ OOP |
+| **CcpC Website** | Modern, responsive club website | HTML/CSS/JS |
+| **Object Tracking Simulation** | Multi/Single/Large object tracking system | Python, OpenCV |
+| **Hate Speech Detection** | NLP project for detecting abusive language | Python, NLP | 
+| **Voice Assistant (V-Chat 1.0)** | Python-based voice assistant with APIs | Python, Automation |
+| **Solar System Simulation** | 3D interactive simulation | Python, vPython |
+| **Banking Management System** | Complete banking operations platform | Python, MySQL |
+| **Air Ticket Reservation System** | Reservation and booking platform | Python, MySQL |
+| **Medium Article Reader** | Text-to-speech web scraper | Python |
+
+👉 **[View all projects →](https://github.com/PriyanshuV17)**
 
 ---
 
-### 📜 Certifications & Achievements (Summary)
+## 🛠️ Tech Stack & Skills
 
-- NPTEL Certifications: Python, Java, C (Elite)
-- Programming In Python, C, and Java (NPTEL)
-- Consolation Prize, Innovation Challenge 2023 (CUJ & IIT ISM Dhanbad)
-- Workshops: Joy of Computing (IIT Ropar), Advanced Drone Tech, Disaster Risk Management, and more
+### Languages
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+### Web & Database
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+### Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+### Core Competencies
+- ⚙️ Data Structures & Algorithms
+- 🗄️ DBMS & SQL Optimization
+- 🎮 Game Engines: Unreal Engine, Unity 3D
+- 🖼️ Computer Graphics (OpenGL basics)
+- 📱 Android Development
+- 👨‍💼 Leadership, Team Management, Communication
+
+---
+
+## 📊 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PriyanshuV17&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriyanshuV17&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuV17&theme=tokyonight&hide_border=true" alt="Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuV17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 Extracurricular Activities
+
+| Role | Organization | Timeline |
+|------|--------------|----------|
+| **Vice-President** | Code Crafters Programming Club | 2023–Present |
+| **Team Leader** | Smart India Hackathon | 2023, 2024 |
+| **Team Leader** | Kavach Hackathon | 2023 |
+| **Student Coordinator** | Training & Placement Cell, CUJ | 2024–Present |
+| **NCC Cadet** | National Cadet Corps | 2022–2025 |
+
+---
+
+## 🎖️ Certifications & Achievements
+
+### 🏅 Certifications
+- ✅ **NPTEL Elite Certifications**: Python, Java, C
+- ✅ **IIT Ropar**: Joy of Computing Workshop
+- ✅ Advanced Drone Technology
+- ✅ Disaster Risk Management
+
+### 🥇 Achievements
+- 🎖️ **Consolation Prize** – Innovation Challenge 2023 (CUJ & IIT ISM Dhanbad)
+- 🏆 Multiple hackathon participations and team leadership roles
+- 📚 Strong academic foundation with specialization in AI/ML & System Design
 
 ---
 
 <div align="center">
 
-✨ <b>Let's connect, collaborate, and build amazing things together!</b> ✨
+### ✨ Let's Connect & Collaborate! ✨
+
+*Open to research opportunities, internships, and exciting project collaborations.*
+
+[📧 Get in Touch](mailto:Priyanshu.22190503040@cuj.ac.in) | [💼 LinkedIn](https://www.linkedin.com/in/priyanshuverma17) | [🐙 GitHub](https://github.com/PriyanshuV17)
+
+---
+
+**Last Updated**: 2026-06-23
 
 </div>
-
-Last updated: 2025-10-24
